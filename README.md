@@ -3,9 +3,9 @@
 ```
 git clone https://github.com/braydenmsue/HeistGame.git
 cd  HeistGame/PhaseTwo
+```
 
-
-2a. Run the .jar with java:
+2. Run the .jar with java:
 ```
 java -jar target\PhaseTwo-1.0-SNAPSHOT.jar HeistGame.java
 ```

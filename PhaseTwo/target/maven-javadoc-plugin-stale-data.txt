@@ -1,0 +1,49 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'/Users/brayden/group-project/PhaseTwo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/brayden/group-project/PhaseTwo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PhaseTwo 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' '/Users/brayden/group-project/PhaseTwo/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'PhaseTwo 1.0-SNAPSHOT API'
+groupOne.game
+groupOne.game.interfaces
+/Users/brayden/group-project/PhaseTwo/src/main/java/.DS_Store = 1678729952110
+/Users/brayden/group-project/PhaseTwo/src/main/java = 1678729952110
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/tag-search-index.js = 1680677890907
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/overview-tree.html = 1680677890894
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/module-search-index.js = 1680677890906
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/index.html = 1680677890895
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/package-search-index.js = 1680677890907
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/jquery-ui.overrides.css = 1680677890922
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/serialized-form.html = 1680677890860
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/index-all.html = 1680677890917
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/allpackages-index.html = 1680677890906
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/member-search-index.js = 1680677890907
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/script.js = 1680677890921
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/stylesheet.css = 1680677890920
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/overview-summary.html = 1680677890918
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/help-doc.html = 1680677890919
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/javadoc.sh = 1680677547358
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/element-list = 1680677890843
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/allclasses-index.html = 1680677890905
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/type-search-index.js = 1680677890907
+/Users/brayden/group-project/PhaseTwo/target/site/apidocs/search.js = 1680677890921

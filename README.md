@@ -21,4 +21,5 @@ java -jar PhaseTwo\target\PhaseTwo-1.0-SNAPSHOT.jar HeistGame.java
 
 
 - When playing the game, there are instruction in a small window at the bottom of the screen
+- Collect the cash and gold while avoiding guards and hazards; escape with a certain amount of treasure to win!
 ![alt text](https://github.com/braydenmsue/HeistGame/blob/main/images/Play.PNG?raw=true)
